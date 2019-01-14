@@ -1,0 +1,8 @@
+Reading config file C:\Users\mitre\Downloads\snes9x.conf.
+Saving	config file	C:\Users\mitre\Downloads\snes9x.conf
+Sound buffer size: 8200 (2050 samples)
+No ROM file header found.
+Map_HiROMMap
+"DONKEY KONG COUNTRY" [checksum ok] HiROM, 32Mbits, ROM+RAM+BAT, NTSC, SRAM:16Kbits, ID:8X  , CRC32:762AF827
+Sound buffer size: 8200 (2050 samples)
+Saving	config file	C:\Users\mitre\Downloads\snes9x.conf
